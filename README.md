@@ -1,12 +1,4 @@
-platform-samples
-================
-
-This is a public place for all sample projects related to the GitHub Platform.
-
-## Hierarchy
-
-The directories are organized to correlate with guides found on developer.github.com.
-But here it is, broken down:
+[![CodeQL](https://github.com/github/platform-samples/actions/workflows/codeql.yml/badge.svg?branch=steffen%2Fblock-skip-checks&event=branch_protection_rule)](https://github.com/github/platform-samples/actions/workflows/codeql.yml)down:
 
 * _api_: here's a bunch of sample code relating to the GitHub API. Subdirectories in this
 category are broken up by language. Do you have a language sample you'd like added?
